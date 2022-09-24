@@ -1,4 +1,7 @@
-# hexo_blog
-# hexo_blog
-# hexo_blog
-# hexo_blog
+# Ten 的 Hexo Blog 
+
+这是第一次搭建云端博客。目前还是测试状态，后续会考虑自己做一个框架，前段 `bootsharp`，界面`vue`。目前使用现成的框架 `Hexo` 进行博客的搭建，预计到明年可以上线自己的网站。
+
+😂
+
+# 
